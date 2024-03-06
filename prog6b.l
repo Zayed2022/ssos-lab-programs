@@ -1,6 +1,6 @@
 %{
 #include <stdio.h>
-#include "6b.tab.h"
+#include "prog6b.tab.h"
 extern yylval;
 %}
 %%
